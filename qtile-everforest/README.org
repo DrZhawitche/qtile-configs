@@ -1,0 +1,1 @@
+[[https://github.com/DrZhawitche/qtile-configs/blob/main/qtile-everforest/qtile-everforest.png]]
