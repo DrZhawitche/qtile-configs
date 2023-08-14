@@ -1,0 +1,1 @@
+[[https://github.com/DrZhawitche/qtile-configs/blob/main/qtile-gruvbox/qtile-gruvbox.png]]
